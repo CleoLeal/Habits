@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+}
+body{
+    background: #09090A;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+} 
