@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 <br><br>
-Se ficou com curiosidade, você pode visitar o app do [Habits](https://cleoleal.github.io/Habits-Explorer/) por aqui
+-Se ficou com curiosidade, você pode visitar o app do [Habits](https://cleoleal.github.io/Habits-Explorer/) por aqui
 
 ## 🔖 Layout
 
